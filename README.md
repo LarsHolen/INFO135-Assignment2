@@ -1,3 +1,5 @@
-# INFO135-Assignments(I am not attending university, but I got these from someone that are working on his master's degree)
+# INFO135 Advanced programming-Assignments
 
-Solving assignments from INFO135 with python.
+I am not attending university, but I got these from someone that are working on his master's degree.
+
+
